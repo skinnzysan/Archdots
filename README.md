@@ -19,4 +19,4 @@ Dotfiles are configuration files for various programs, and they help those progr
 - **[Spicetify](https://github.com/khanhas/spicetify-cli)**
 # Other
 **[Wallpaper](https://www.artstation.com/artwork/QrvZal)**
-![Wallpaper](Pictures/Wallpaper.png)
+![Wallpaper](Pictures/Wallpaper.jpg)
